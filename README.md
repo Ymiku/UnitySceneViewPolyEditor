@@ -1,1 +1,3 @@
 # UnitySceneViewPolyEditor
+用于在editor模式中配制多边形
+抽离自Terr2d
